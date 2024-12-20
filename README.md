@@ -1,7 +1,3 @@
-Here's a detailed **README.md** template with instructions tailored to your Gomoku AI project.
-
----
-
 # **Gomoku AI Project**
 
 This repository contains an AI agent designed to play the classic board game **Gomoku** on a 15x15 grid. The AI leverages Reinforcement Learning with a Deep Q-Network (DQN) architecture, achieving adaptive decision-making and a high win rate. The project also includes a Minimax algorithm for comparison and the option to play against a human opponent.
