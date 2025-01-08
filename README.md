@@ -164,12 +164,6 @@ If you want to retrain the neural network:
 
 ---
 
-## **License**
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## **Acknowledgments**
 
 - **Reinforcement Learning** concepts inspired by classic DQN implementations.
