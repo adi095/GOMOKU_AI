@@ -162,13 +162,5 @@ If you want to retrain the neural network:
 - **SciPy**
 - **Matplotlib**
 
----
-
-## **Acknowledgments**
-
-- **Reinforcement Learning** concepts inspired by classic DQN implementations.
-- **Minimax Algorithm** for baseline AI logic.
-
----
 
 Happy coding! 🎮
